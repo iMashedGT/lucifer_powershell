@@ -34,12 +34,12 @@ This PowerShell script automates the downloading, installation, and configuratio
 
 ## Usage
 
-1. **Clone or download this script** and save it as a `.ps1` file (e.g., `installluci.ps1`).
+1. **Clone or download this script** and save it as a `.ps1` file (e.g., `setup.ps1`).
 2. **Open PowerShell as Administrator**.
 3. **Run the script** using the following command:
 
    ```powershell
-   .\installluci.ps1
+   .\setup.ps1
    ```
 
 4. The script will automatically check and install required applications, download files from MEGA.nz, and configure Windows settings.
